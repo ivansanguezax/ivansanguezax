@@ -3,14 +3,14 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ivansanguezax) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivansanguezax) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ivansanguezax) 
 
-## About me
+## 🤖 About me
 
 - 👨🏻‍💻 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿. 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 𝗖𝗦𝗦, 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 & 𝗥𝗲𝗮𝗰𝘁. 
 - 🖌️ 𝗨𝗜/𝗨𝗫 𝗗𝗲𝘀𝗶𝗴𝗻𝗲𝗿. 𝗟𝗼𝘃𝗲𝗿 𝗼𝗳 𝗰𝗿𝗲𝗮𝘁𝗶𝘃𝗶𝘁𝘆.
-- 🚀 *Speaker in Tech Events* (GDG | MLSA | NASA SpaceApps)
-- 🎬 [*Youtuber* about Programming & Productivity](https://www.youtube.com/@ivansanguezax)
+- 🚀 𝗦𝗽𝗲𝗮𝗸𝗲𝗿 𝗶𝗻 𝗧𝗲𝗰𝗵 𝗘𝘃𝗲𝗻𝘁𝘀 (𝗚𝗗𝗚 | 𝗠𝗟𝗦𝗔 | 𝗡𝗔𝗦𝗔 𝗦𝗽𝗮𝗰𝗲𝗔𝗽𝗽𝘀)
+- 🎬 [𝗬𝗼𝘂𝘁𝘂𝗯𝗲𝗿 𝗮𝗯𝗼𝘂𝘁 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 & 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝘃𝗶𝘁𝘆](https://www.youtube.com/@ivansanguezax)
 
-## Tech Stack
+## ❤️ Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ivansanguezax&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
