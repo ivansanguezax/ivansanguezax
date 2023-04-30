@@ -1,5 +1,6 @@
-# 💫 About Me:
-A developer passionate about everything related to the web 🚀<br>Content creator and lover of music and creativity.
+![github-readme-profile](https://github.com/ivansanguezax/ivansanguezax/blob/e1289f97481b4e80b67ced2dceec1606f136189c/assets/bannerREADME.jpg)
+
+
 
 
 ## 🌐 Socials:
