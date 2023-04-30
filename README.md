@@ -5,8 +5,8 @@
 
 ## About me
 
-- 👨🏻‍💻 Frontend Software Engineer. Passionate about CSS, JavaScript & React. 
-- 🖌️ UI/UX Designer. Lover of creativity.
+- 👨🏻‍💻 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿. 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 𝗖𝗦𝗦, 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 & 𝗥𝗲𝗮𝗰𝘁. 
+- 🖌️ 𝗨𝗜/𝗨𝗫 𝗗𝗲𝘀𝗶𝗴𝗻𝗲𝗿. 𝗟𝗼𝘃𝗲𝗿 𝗼𝗳 𝗰𝗿𝗲𝗮𝘁𝗶𝘃𝗶𝘁𝘆.
 - 🚀 *Speaker in Tech Events* (GDG | MLSA | NASA SpaceApps)
 - 🎬 [*Youtuber* about Programming & Productivity](https://www.youtube.com/@ivansanguezax)
 
